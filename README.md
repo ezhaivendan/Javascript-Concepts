@@ -14,11 +14,7 @@ JavaScript is a dynamic computer programming language. It is lightweight and mos
 
 <li><b>Richer interfaces</b> − You can use JavaScript to include such items as drag-and-drop components and sliders to give a Rich Interface to your site visitors.</li></ul>
 
-## ECMAScript
-
-### ECMAScript 4 
-### ECMAScript 5
-### ECMAScript 6
+## JavaScript Concepts
 <ul>
   <li><a href="#">Variable, Scope, Hoisting</a></li>
 </ul>
