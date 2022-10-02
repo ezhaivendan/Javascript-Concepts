@@ -1,4 +1,4 @@
-# Javascript-Concepts
+# Javascript
 
 ### What is JavaScript?
 <p>
@@ -20,6 +20,6 @@ JavaScript is a dynamic computer programming language. It is lightweight and mos
 ### ECMAScript 5
 ### ECMAScript 6
 <ul>
-  <li><a href="#">Let, Const</a></li>
+  <li><a href="#">Variable, Scope, Hoisting</a></li>
 </ul>
 
